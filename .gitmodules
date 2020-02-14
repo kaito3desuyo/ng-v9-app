@@ -1,0 +1,3 @@
+[submodule "vendor/ng-v8-library"]
+	path = vendor/ng-v8-library
+	url = https://github.com/kaito3desuyo/ng-v8-library.git
